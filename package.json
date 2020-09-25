@@ -1,0 +1,28 @@
+{
+  "name": "blaise",
+  "version": "1.0.0",
+  "description": "Blaise finds streaming links for videos using NodeJs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n0rmancodes/blaise.git"
+  },
+  "keywords": [
+    "streaming",
+    "video",
+    "hd"
+  ],
+  "author": "n0rmancodes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n0rmancodes/blaise/issues"
+  },
+  "homepage": "https://github.com/n0rmancodes/blaise#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.6.2"
+  }
+}

@@ -1,0 +1,29 @@
+body {
+    background:#e2e2e2;
+    color:#282828;
+    font-family:Helvetica;
+    margin:0;
+    text-align:center;
+}
+
+img {
+    width:200px;
+}
+
+input {
+    width:200px;
+}
+
+.result {
+    background:white;
+    width:95%;
+    margin:2.5%;
+    padding:0.5%;
+    text-align:left;
+    color:black;
+}
+
+a {
+    color:#282828;
+    text-decoration:none;
+}
